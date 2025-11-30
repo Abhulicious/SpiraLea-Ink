@@ -1,2 +1,7 @@
-# SpiraLea-Ink
-Cute and Dangerous tattoos in Munich by Lea Immamovic
+# SpiraLea Ink Website
+
+This is my first HTML project: a personal tattoo portfolio page.  
+
+- Shows my gallery  
+- Lists tattoo styles  
+- Contact info
